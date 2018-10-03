@@ -1,3 +1,3 @@
 package m2
 
-var Version = 1
+var Version = 2
