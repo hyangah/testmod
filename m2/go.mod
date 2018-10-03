@@ -1,1 +1,1 @@
-module github.com/hyangah/testmod/m2
+module github.com/hyangah/testmod/m2/v2
