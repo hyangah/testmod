@@ -1,4 +1,4 @@
-package all
+package main
 
 import (
 	"github.com/hyangah/testmod/m1/v3"
