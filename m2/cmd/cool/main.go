@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	println("Version", m2.Version)
+	println("Major Version", m2.Version)
 }
 

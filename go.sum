@@ -1,0 +1,4 @@
+github.com/hyangah/testmod/m1/v3 v3.0.0 h1:LkCcBapUUADHB5Q/vFKXZbj24k+rO0R1WniqGgPnfSQ=
+github.com/hyangah/testmod/m1/v3 v3.0.0/go.mod h1:J4vwu1TxzxUnAka3Rksp2u0b7/kbPM8mnxIGVUAOswQ=
+github.com/hyangah/testmod/m2/v2 v2.0.0 h1:Fb6Wn14mShFj64ltf49/0tfwWc5Wl3tH5ai2rBIOCGk=
+github.com/hyangah/testmod/m2/v2 v2.0.0/go.mod h1:OY6jCkCb3P0+IunLSqtr8eIUZFSltMk6CRcQJbdLSJU=
